@@ -5,6 +5,7 @@
 }
 
 body {
+  background-color: rgb(197, 219, 214);
   font-family: "Muli", sans-serif;
   display: flex;
   align-items: center;
